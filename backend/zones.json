@@ -1,0 +1,38 @@
+[
+  {
+    "id": "thornton",
+    "name": "Thornton School",
+    "center": {
+      "lat": 34.0219,
+      "lng": -118.2865
+    },
+    "radius_m": 80,
+    "playlist": [
+      "https://8080-cs-528516839160-default.cs-us-west1-ijlt.cloudshell.dev/Music/Thornton1.mp3"
+    ]
+  },
+  {
+    "id": "library",
+    "name": "Leavey Library",
+    "center": {
+      "lat": 34.0205,
+      "lng": -118.2853
+    },
+    "radius_m": 300,
+    "playlist": [
+      "https://8080-cs-528516839160-default.cs-us-west1-ijlt.cloudshell.dev/Music/Library1.mp3"
+    ]
+  },
+  {
+    "id": "business",
+    "name": "Marshall School of Business",
+    "center": {
+      "lat": 34.0187,
+      "lng": -118.2854
+    },
+    "radius_m": 300,
+    "playlist": [
+      "https://8080-cs-528516839160-default.cs-us-west1-ijlt.cloudshell.dev/Music/Marshall1.mp3"
+    ]
+  }
+]

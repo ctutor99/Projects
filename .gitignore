@@ -1,0 +1,22 @@
+# Node
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+server.log
+vite.log
+
+# PIDs
+*.pid
+
+# OS
+.DS_Store
+
+# Vite build
+dist/
+
+# Environment
+.env
+
+
